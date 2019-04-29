@@ -1,1 +1,1 @@
-Use the console.log() method to print the value of the variable a where noted in the code
+-An array is declared as const s = [5, 7, 2]. Change the array to [2, 5, 7] using various element assignment.
