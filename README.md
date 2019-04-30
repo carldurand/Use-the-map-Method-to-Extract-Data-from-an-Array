@@ -1,1 +1,1 @@
--An array is declared as const s = [5, 7, 2]. Change the array to [2, 5, 7] using various element assignment.
+. Using ES6 notation, each item in array is processed to extract title and rating. Parantheses are needed to return an object.
